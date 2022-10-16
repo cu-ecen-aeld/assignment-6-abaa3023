@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to build image for qemu.
+# Script to build image for qemu
 # Author: Siddhant Jajoo.
 
 git submodule init
